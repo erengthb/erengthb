@@ -1,6 +1,8 @@
 # 💫 About Me:
  I’m currently working on Java , Spring Framework and React<br>I work remotely as a software engineer in a company that develops software on Financial Technologies in Istanbul.
 
+- Contact me:  **erndmrhn@gmail.com**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eren-demirhan-426322152/) 

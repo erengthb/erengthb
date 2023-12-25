@@ -1,7 +1,7 @@
 # 💫 About Me:
  I’m currently working on Java , Spring Framework and React<br>I work remotely as a software engineer in a company that develops software on Financial Technologies in Istanbul.
 
-- Contact me:  **erndmrhn@gmail.com**
+- Contact me:  **erndmrhnn@gmail.com**
 
 
 ## 🌐 Socials:
